@@ -15,8 +15,8 @@ a
 
 ## Intro of Orca
 
-Orcas are amazing. They built tight social bondings that stay consistent through their whole life. Hunting is done in groups with elaborate strategies after which the weak and sick Orca eat first. Orcas rock. Here have a picture of an Orca.
+Orcas are amazing. They built tight social bondings that stay consistent through their whole life. Hunting is done in groups with elaborate strategies after which the weak and sick Orca eat first. Orcas rock. Here, @fig-orca shows an Orca lifting itself out of the ocean.
 
-![An Orca is lifting itself above the water.](https://tse1.mm.bing.net/th/id/OIP.ye2SuzeN6EON0D2gSp4XKwHaFj?pid=Api)
+![An Orca is lifting itself above the water.](https://tse1.mm.bing.net/th/id/OIP.ye2SuzeN6EON0D2gSp4XKwHaFj?pid=Api){#fig-orca}
 
 Bonus fun fact: Orcas are dolphins.
