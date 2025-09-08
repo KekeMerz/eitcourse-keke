@@ -1,0 +1,22 @@
+---
+title: "The amazing example Orca project"
+---
+
+### **Brought to you by Keke**
+
+Welcome to this amazing text. In this paper, we will look at the world of Orcas.
+
+But first, let's have some R code just for fun.
+
+```{r}
+a <- 1+3
+a
+```
+
+## Intro of Orca
+
+Orcas are amazing. They built tight social bondings that stay consistent through their whole life. Hunting is done in groups with elaborate strategies after which the weak and sick Orca eat first. Orcas rock. Here have a picture of an Orca.
+
+![An Orca is lifting itself above the water.](https://tse1.mm.bing.net/th/id/OIP.ye2SuzeN6EON0D2gSp4XKwHaFj?pid=Api)
+
+Bonus fun fact: Orcas are dolphins.

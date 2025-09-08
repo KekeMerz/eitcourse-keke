@@ -1,0 +1,5 @@
+/.quarto/
+**/*.quarto_ipynb
+my-first-quarto-project.Rproj
+My first quarto project_files
+/*.html
