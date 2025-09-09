@@ -1,5 +1,5 @@
 /.quarto/
 .Rproj.user
-intro_cache/
-intro_files/
+/intro_cache/
+/intro_files/
 .Rhistory
