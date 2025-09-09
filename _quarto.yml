@@ -5,7 +5,7 @@ project:
 website:
   title: "Fertile soil"
   favicon: images/icon.png
-  repo-url: "https://github.com/kekemerz/eitcourse/mock-up-paper-Japan"
+  repo-url: "https://github.com/kekemerz/eitcourse/"
   repo-actions: [issue]
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -23,8 +23,8 @@ website:
     contents:
       - href: index.qmd
         text: Home
-      #- href: aboutme.qmd
-      #  text: About me
+      - href: aboutme.qmd
+        text: About me
       - href: intro.qmd
         text: Intro
       #- section: "Methodology"
@@ -45,10 +45,10 @@ format:
     toc: true
     title-prefix: "Data Science Course - "
     number-sections: true
-    author-meta: "Robin Lovelace & contributors"
+    author-meta: "Keke P. Merz"
     date-meta: "2025"
-    copyright: "© 2025 Robin Lovelace"
-    license: "CC BY-SA"
+    copyright: "© 2025 Keke P. Merz"
+    #license: "CC BY-SA"
 
 execute:
   freeze: false
