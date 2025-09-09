@@ -11,7 +11,7 @@ Polycrisis in cities world-wide: increasing natural catastrophe, changes in popu
 # Methods {#sec-methods}
 
 In @fig-methodology, you can see the overall structure of this research project.
-
+You can make more colors for the figure.
 ![Methdologgy overview of this research project (Find the original version [here](https://excalidraw.com/#json=crZeHqzGb-eIGfIWTp2OD,MkoVZZVx3uW8RwR4g0icJQ))](mindmap.svg){#fig-methodology}
 
 Results {#sec-results}
