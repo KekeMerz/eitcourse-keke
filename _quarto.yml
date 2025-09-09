@@ -17,7 +17,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/kekemerz/eitcourse/mock-up-paper-Japan
+        href: https://github.com/kekemerz/eitcourse/
         text: GitHub
     style: docked
     contents:

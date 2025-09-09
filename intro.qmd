@@ -18,10 +18,10 @@ In @fig-methodology, you can see the overall structure of this research project.
 
 # Results {#sec-results}
 
-Look at the output in @graph-cars.
+Please take a look at this random freshly analysed data in @fig-graph-cars.
 
 ```{r}
-#| label: graph-cars
+#| label: fig-graph-cars
 #| echo: false
 
 library(ggplot2)
