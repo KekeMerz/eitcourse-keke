@@ -6,7 +6,6 @@ editor: visual
 
 **Hello, World!**
 
-This is a text.
+This is a text. This is some more text.
 
-Introduction
-Let's write something.
+Introduction Let's write something.
