@@ -5,7 +5,7 @@ project:
 website:
   title: "Fertile soil"
   favicon: images/icon.png
-  repo-url: "https://github.com/kekemerz/eitcourse/"
+  repo-url: "https://github.com/kekemerz/eitcourse-keke/"
   repo-actions: [issue]
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
@@ -17,7 +17,7 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/kekemerz/eitcourse/
+        href: https://github.com/kekemerz/eitcourse-keke/
         text: GitHub
     style: docked
     contents:
